@@ -1,5 +1,5 @@
 # Examples
-These are the simulation of ``Quadratic Programming for Continuous Control of Safety-Critical Multi-Agent Systems Under Uncertainty''.
+These are the simulations of ``Quadratic Programming for Continuous Control of Safety-Critical Multi-Agent Systems Under Uncertainty''.
 
 **S01_compare_origial_reshaped.m** is the simulation of this paper (Fig 8 and 9).
 
